@@ -23,7 +23,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Basim-Mehdi&label=Profile%20views&color=0e75b6&style=flat" alt="Basim-Mehdi" /> </p>
 
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- ![snake gif](https://github.com/Basim-Mehdi/Basim-Mehdi/blob/output/github-contribution-grid-snake.gif) -->
 
 
