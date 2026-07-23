@@ -3,7 +3,7 @@
 
 <h3>About Me</h3>
 
-<p>A beginner Cyber Security Student with a passion for learning and growing in the field of Cyber Security. Currently, I'm in my 4th semester, and I'm somehow interested in CTF (Capture The Flag) challenges, web exploitation, and learning how to secure systems. My goal is to learn as much as possible and eventually dive into AI and Cyber Security integration in the future.</p>
+<p>A Cyber Security Professional with a passion for learning and growing in the field of Cyber Security. Currently, I'm in my Final year, and I'm somehow interested in learning how to secure or break systems. My goal is to learn as much as possible and eventually dive into AI and Cyber Security integration.</p>
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDA2aGJ5bm1nZzFyNDRjbjY0dmxjanZ1MzN1bWpjdG9zdnppNDZhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A1SxC5HRrD3MY/giphy.gif"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
